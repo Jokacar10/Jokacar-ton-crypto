@@ -26,7 +26,7 @@
     "@types/sodium-native": "^2.3.9",
     "buffer": "^6.0.3",
     "expect": "^27.1.0",
-    "jest": "^27.1.0",
+    "jest": "^30.3.0",
     "jest-mock": "^27.1.0",
     "ts-jest": "^27.0.5",
     "ts-loader": "^9.2.5",
